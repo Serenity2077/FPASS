@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/fpassfromzhuweiyou/static/js/main.758e2da4.chunk.js",
-    "main.js.map": "/fpassfromzhuweiyou/static/js/main.758e2da4.chunk.js.map",
-    "runtime-main.js": "/fpassfromzhuweiyou/static/js/runtime-main.2c574509.js",
-    "runtime-main.js.map": "/fpassfromzhuweiyou/static/js/runtime-main.2c574509.js.map",
-    "static/css/2.95f25948.chunk.css": "/fpassfromzhuweiyou/static/css/2.95f25948.chunk.css",
-    "static/js/2.18d0bdde.chunk.js": "/fpassfromzhuweiyou/static/js/2.18d0bdde.chunk.js",
-    "static/js/2.18d0bdde.chunk.js.map": "/fpassfromzhuweiyou/static/js/2.18d0bdde.chunk.js.map",
-    "index.html": "/fpassfromzhuweiyou/index.html",
-    "static/css/2.95f25948.chunk.css.map": "/fpassfromzhuweiyou/static/css/2.95f25948.chunk.css.map",
-    "static/js/2.18d0bdde.chunk.js.LICENSE.txt": "/fpassfromzhuweiyou/static/js/2.18d0bdde.chunk.js.LICENSE.txt"
+    "main.js": "/FPASS/static/js/main.fb94adf7.chunk.js",
+    "main.js.map": "/FPASS/static/js/main.fb94adf7.chunk.js.map",
+    "runtime-main.js": "/FPASS/static/js/runtime-main.3fdc37c7.js",
+    "runtime-main.js.map": "/FPASS/static/js/runtime-main.3fdc37c7.js.map",
+    "static/css/2.95f25948.chunk.css": "/FPASS/static/css/2.95f25948.chunk.css",
+    "static/js/2.c09a3899.chunk.js": "/FPASS/static/js/2.c09a3899.chunk.js",
+    "static/js/2.c09a3899.chunk.js.map": "/FPASS/static/js/2.c09a3899.chunk.js.map",
+    "index.html": "/FPASS/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/FPASS/static/css/2.95f25948.chunk.css.map",
+    "static/js/2.c09a3899.chunk.js.LICENSE.txt": "/FPASS/static/js/2.c09a3899.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c574509.js",
+    "static/js/runtime-main.3fdc37c7.js",
     "static/css/2.95f25948.chunk.css",
-    "static/js/2.18d0bdde.chunk.js",
-    "static/js/main.758e2da4.chunk.js"
+    "static/js/2.c09a3899.chunk.js",
+    "static/js/main.fb94adf7.chunk.js"
   ]
 }
