@@ -45,6 +45,7 @@ export const rules = [
   { name: '推特', domain: 'twitter', length: 32 },
   { name: 'Paypal', domain: 'paypal', length: 20 },
   { name: '吾爱', domain: '52pojie', length: 32 },
+  { name: '教育部考试中心', domain: 'member.neea.cn', length: 15 },
 ]
 
 rules.sort((a, b) => (a.domain <= b.domain ? -1 : 1))
