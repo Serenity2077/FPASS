@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/fpassfromzhuweiyou/static/js/main.758e2da4.chunk.js",
+    "main.js.map": "/fpassfromzhuweiyou/static/js/main.758e2da4.chunk.js.map",
+    "runtime-main.js": "/fpassfromzhuweiyou/static/js/runtime-main.2c574509.js",
+    "runtime-main.js.map": "/fpassfromzhuweiyou/static/js/runtime-main.2c574509.js.map",
+    "static/css/2.95f25948.chunk.css": "/fpassfromzhuweiyou/static/css/2.95f25948.chunk.css",
+    "static/js/2.18d0bdde.chunk.js": "/fpassfromzhuweiyou/static/js/2.18d0bdde.chunk.js",
+    "static/js/2.18d0bdde.chunk.js.map": "/fpassfromzhuweiyou/static/js/2.18d0bdde.chunk.js.map",
+    "index.html": "/fpassfromzhuweiyou/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/fpassfromzhuweiyou/static/css/2.95f25948.chunk.css.map",
+    "static/js/2.18d0bdde.chunk.js.LICENSE.txt": "/fpassfromzhuweiyou/static/js/2.18d0bdde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c574509.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.18d0bdde.chunk.js",
+    "static/js/main.758e2da4.chunk.js"
+  ]
+}
