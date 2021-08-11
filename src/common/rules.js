@@ -46,8 +46,8 @@ export const rules = [
   { name: 'Paypal', domain: 'paypal', length: 20 },
   { name: '吾爱', domain: '52pojie', length: 32 },
   { name: '教育部考试中心', domain: 'member.neea.cn', length: 15 },
-  { name: 'Etherscan', domain: 'etherscan.io', length: 256 },
-  { name: 'Tokenpocket', domain: 'tokenpocket.pro', length: 128 },
+  { name: 'Etherscan', domain: 'etherscan.io', length: 75 },
+  { name: 'Tokenpocket', domain: 'tokenpocket.pro', length: 64 },
 ]
 
 rules.sort((a, b) => (a.domain <= b.domain ? -1 : 1))
