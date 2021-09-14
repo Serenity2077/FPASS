@@ -48,6 +48,7 @@ export const rules = [
   { name: '教育部考试中心', domain: 'member.neea.cn', length: 15 },
   { name: 'Etherscan', domain: 'etherscan.io', length: 75 },
   { name: 'Tokenpocket', domain: 'tokenpocket.pro', length: 64 },
+  { name: '字幕组', domain: 'yysub.net', length: 20 },
 ]
 
 rules.sort((a, b) => (a.domain <= b.domain ? -1 : 1))
