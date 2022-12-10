@@ -55,6 +55,7 @@ export const rules = [
   { name: 'Ins', domain: 'instagram.com', length: 32 },
   { name: 'matters', domain: 'matters.news', length: 32 },
   { name: 'SwiftBackup', domain: 'swiftapps.org', length: 64 },
+  { name: 'Airport/机场们', domain: 'allAirport', length: 16 },
 ]
 
 rules.sort((a, b) => (a.domain <= b.domain ? -1 : 1))
