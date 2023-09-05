@@ -1,8 +1,6 @@
 export const rules = [
-  { name: '腾讯企业邮', domain: 'exmail.qq.com', length: 32 },
   { name: 'segmentfault', domain: 'segmentfault.com', length: 32 },
   { name: '简书', domain: 'jianshu.com', length: 32 },
-  { name: '优酷', domain: 'youku.com', length: 16 },
   { name: 'Steam', domain: 'store.steampowered.com', length: 64 },
   { name: '钉钉', domain: 'dingtalk.com', length: 64 },
   { name: '腾讯QQ', domain: 'qq.com', length: 16 },
@@ -14,13 +12,8 @@ export const rules = [
   { name: '新浪微博', domain: 'weibo.com', length: 16 },
   { name: '12306', domain: '12306.cn', length: 20 },
   { name: '豆瓣', domain: 'douban.com', length: 20 },
-  { name: '拉钩', domain: 'lagou.com', length: 16 },
-  { name: '阿里云企业邮', domain: 'qiye.aliyun.com', length: 32 },
   { name: '淘宝', domain: 'taobao.com', length: 20 },
   { name: '京东', domain: 'jd.com', length: 20 },
-  { name: 'Coding', domain: 'coding.net', length: 64 },
-  { name: '开源中国', domain: 'oschina.net', length: 20 },
-  { name: '码云', domain: 'gitee.com', length: 16 },
   { name: '斗鱼', domain: 'douyu.com', length: 25 },
   { name: '哔哩哔哩', domain: 'bilibili.com', length: 16 },
   { name: 'Cloudflare', domain: 'cloudflare.com', length: 128 },
@@ -56,7 +49,7 @@ export const rules = [
   { name: 'matters', domain: 'matters.news', length: 32 },
   { name: 'SwiftBackup', domain: 'swiftapps.org', length: 64 },
   { name: 'Airport/机场们', domain: 'allAirport', length: 16 },
-  { name: 'Pinboard', domain: 'Pinboard.in', length: 64 },
+  { name: 'Pinboard', domain: 'pinboard.in', length: 64 },
 ]
 
 rules.sort((a, b) => (a.domain <= b.domain ? -1 : 1))
