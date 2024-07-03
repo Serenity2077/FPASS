@@ -50,6 +50,8 @@ export const rules = [
   { name: 'SwiftBackup', domain: 'swiftapps.org', length: 64 },
   { name: 'Airport/机场们', domain: 'allAirport', length: 16 },
   { name: 'Pinboard', domain: 'pinboard.in', length: 64 },
+  { name: 'Pinboard', domain: 'pinboard.in', length: 64 },
+  { name: 'Aegis', domain: 'aegis', length: 32 },
 ]
 
 rules.sort((a, b) => (a.domain <= b.domain ? -1 : 1))
