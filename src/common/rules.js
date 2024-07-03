@@ -50,7 +50,7 @@ export const rules = [
   { name: 'SwiftBackup', domain: 'swiftapps.org', length: 64 },
   { name: 'Airport/机场们', domain: 'allAirport', length: 16 },
   { name: 'Pinboard', domain: 'pinboard.in', length: 64 },
-  { name: 'OKX', domain: 'okx.com', length: 64 },
+  { name: 'OKX', domain: 'okx.com', length: 32 },
   { name: 'Aegis', domain: 'aegis', length: 32 },
 ]
 
