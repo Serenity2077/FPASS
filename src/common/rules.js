@@ -52,6 +52,7 @@ export const rules = [
   { name: 'Pinboard', domain: 'pinboard.in', length: 64 },
   { name: 'OKX', domain: 'okx.com', length: 32 },
   { name: 'Aegis', domain: 'aegis', length: 32 },
+  { name: 'Coinsbee', domain: 'coinsbee.com', length: 32 },
 ]
 
 rules.sort((a, b) => (a.domain <= b.domain ? -1 : 1))
