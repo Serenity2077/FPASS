@@ -26,7 +26,7 @@ export const rules = [
   { name: '阿里云盘', domain: 'aliyundrive.com', length: 20 },
   { name: '谷歌', domain: 'google', length: 32 },
   { name: '网易邮箱', domain: '163', length: 32 },
-  { name: 'bitwarden', domain: 'bitwarden', length: 32 },
+  { name: 'bitwarden', domain: 'vw.72521.xyz', length: 128 },
   { name: 'Roam Research', domain: 'roam', length: 32 },
   { name: 'roamedit', domain: 'roam', length: 18 },
   { name: 'mxc', domain: 'mxc', length: 32 },
